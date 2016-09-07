@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sv.udb</groupId>
-    <artifactId>GUIA05_POO2_SUNOMBRE</artifactId>
+    <artifactId>GUIA05_POO2_JennyferSoto</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>GUIA05_POO2_SUNOMBRE</name>
+    <name>GUIA05_POO2_JennyferSoto</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
